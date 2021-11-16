@@ -1,0 +1,17 @@
+pandas
+nltk
+pycoingecko
+tradingview_ta
+--upgrade --no-cache-dir git+https://github.com/StreamAlpha/tvdatafeed.git
+finta
+pyod
+pycoingecko
+tweepy
+textblob
+wordcloud
+newsapi
+requests
+sklearn
+dotenv
+datetime
+json
