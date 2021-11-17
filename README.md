@@ -27,8 +27,8 @@ ___
 >> - Data: articles, social media for trending cryptos
 
 >>Linear Regression & Classification
->> - Data: oscillator and momentum indicators from TradingView, build classification model to determine buy/sell/hold
->> - Feature Engineering: (Resources: ARIMA, PCA), Clean train/test data, run LSTM (machine learning)
+>> - Data: oscillator and momentum indicators from TradingView, build classification model to determine buy/sell/hold (and Backtesting)
+>> - Linear Regression: (Resources: Sklearn)
 
 ___
 
