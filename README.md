@@ -2,7 +2,7 @@
 
 ![bc](Images/tara1.png) ![Users](Images/cryptara2.png)
 
->## A crypto trading algorithm that leverages the power of TradingView, Reddit & Twitter  
+>## A crypto trading algorithm that leverages the power of TradingView, Scikit-learn, Reddit, Google Trends & Twitter  
 
 ___
 

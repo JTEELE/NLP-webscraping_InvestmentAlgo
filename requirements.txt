@@ -2,16 +2,14 @@ pandas
 nltk
 pycoingecko
 tradingview_ta
---upgrade --no-cache-dir git+https://github.com/StreamAlpha/tvdatafeed.git
+git+https://github.com/StreamAlpha/tvdatafeed.git
 finta
 pyod
 pycoingecko
 tweepy
 textblob
 wordcloud
-newsapi
+newsapi-python
 requests
 sklearn
-dotenv
-datetime
 json
