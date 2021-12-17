@@ -46,7 +46,7 @@ ___
 ![red](Images/Reddit.png)
 
 >## What is Reddit?
-> Reddit is a social discussion forum  and socail news website. Users can share links, posts, images, and videos. Reddit is home to one of the largest investing communities, [WallStreetBets](https://www.reddit.com/r/wallstreetbets/) (WSB) with a total of 11.2 million members (aka Degenerates). Another notable community is the [Bitcoin](https://www.reddit.com/r/Bitcoin/) community with a total of 3.6 million members.
+> Reddit is a social discussion forum  and social news website. Users can share links, posts, images, and videos. Reddit is home to one of the largest investing communities, [WallStreetBets](https://www.reddit.com/r/wallstreetbets/) (WSB) with a total of 11.2 million members (aka Degenerates). Another notable community is the [Bitcoin](https://www.reddit.com/r/Bitcoin/) community with a total of 3.6 million members.
 
 ___
 

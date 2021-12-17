@@ -3,8 +3,8 @@ nltk
 pycoingecko
 tradingview_ta
 git+https://github.com/StreamAlpha/tvdatafeed.git
-finta
 pyod
+finta
 pycoingecko
 tweepy
 textblob
